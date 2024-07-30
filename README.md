@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 <div align="left">
   
 <a href="https://github.com/Abdullah272056">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Abdullah272056&show_icons=true&theme=radical&line_height=40&count_private=true"
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=abdullah-mysoftheaven&show_icons=true&theme=radical&line_height=40&count_private=true"
 </a>
   
 
-<a href="https://github.com/Abdullah272056?tab=repositories">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Abdullah272056&theme=radical&hide_langs_below=0" />
+<a href="https://github.com/abdullah-mysoftheaven?tab=repositories">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abdullah-mysoftheaven&theme=radical&hide_langs_below=0" />
 </a>
 
 </div>
